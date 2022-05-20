@@ -1,0 +1,4 @@
+main.c:19:5:main	8	static
+main.c:27:6:define	8	static
+main.c:33:6:urt	4	static
+main.c:53:6:run	24	static
